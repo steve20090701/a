@@ -548,14 +548,19 @@ TVB无线新闻,http://cc.123.rr.kg/163189/wxxwt
 
 VIP_5,#genre#
 松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松視1台,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/s1t.flv
 松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 松視3台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 驚艷台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 驚艷台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 驚艷台,http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
+驚艷台,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/jyt.flv
 潘朵拉完美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 香蕉台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
-
+香蕉台,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/xjt.flv
+麻豆传媒,http://125.227.210.55:1009/VideoInput/play.ts
+奧視1,http://125.227.210.55:1022/VideoInput/play.ts
+奧視2,http://125.227.210.55:3031/VideoInput/play.ts
 
 
 webview,#genre#
