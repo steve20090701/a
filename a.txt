@@ -314,7 +314,7 @@ CGTN俄罗斯语,http://jjzxg.ddns.net:7210/rtp/233.50.201.39:5140
 港澳,#genre#
 
 
-翡翠台,http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+翡翠台,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/jade.flv
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,https://cdn3.indevs.in/stream/live/jade/
@@ -325,6 +325,7 @@ CGTN俄罗斯语,http://jjzxg.ddns.net:7210/rtp/233.50.201.39:5140
 
 无线新闻,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
 TVB无线新闻,http://cc.123.rr.kg/163189/wxxwt
+TVB无线新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
 
 
 VIP_5,#genre#
