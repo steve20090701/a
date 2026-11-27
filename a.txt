@@ -330,8 +330,8 @@ TVB无线新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
 测试2,socks5://43.167.220.30:58921/http://211.72.174.95:8116/0.ts
 测试3,socks5://43.167.220.30:58921/http://125.227.210.55:1009/VideoInput/play.ts
 测试4,socks5://220.189.213.2:47001/http://125.227.210.55:1009/VideoInput/play.ts
-测试5,https://alicdnsg1.fuyep.com/vpnx.php?id=339590/http://125.227.210.55:1009/VideoInput/play.ts
-测试6,socks5://alicdnsg1.fuyep.com/vpnx.php?id=339590/http://125.227.210.55:1009/VideoInput/play.ts
+测试5,https://alicdnsg1.fuyep.com/http://125.227.210.55:1009/VideoInput/play.ts
+测试6,socks5://alicdnsg1.fuyep.com/http://125.227.210.55:1009/VideoInput/play.ts
 
 
 
