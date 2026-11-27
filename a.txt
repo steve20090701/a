@@ -328,10 +328,10 @@ TVB无线新闻,http://cc.123.rr.kg/163189/wxxwt
 TVB无线新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
 测试1,socks5://43.167.220.30:58921/http://211.72.174.95:8113/0.ts
 测试2,socks5://43.167.220.30:58921/http://211.72.174.95:8116/0.ts
-测试3,socks5://43.167.220.30:58921/http://125.227.210.55:1009/VideoInput/play.ts
-测试4,socks5://220.189.213.2:47001/http://125.227.210.55:1009/VideoInput/play.ts
-测试5,https://alicdnsg1.fuyep.com/http://125.227.210.55:1009/VideoInput/play.ts
-测试6,socks5://alicdnsg1.fuyep.com/http://125.227.210.55:1009/VideoInput/play.ts
+中天新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
+無綫新聞台,http://15611-huge.cdn-o2.me/live/4b1cb29e33/9ea2b8c5e827/500949.ts
+無綫新聞台,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=F6144U&tk=4U04NDOE13ra
+無綫新聞台,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:3A:93:FD&stream=1495601
 
 
 
@@ -350,6 +350,37 @@ VIP_5,#genre#
 麻豆传媒,http://125.227.210.55:1009/VideoInput/play.ts
 奧視1,http://125.227.210.55:1022/VideoInput/play.ts
 奧視2,http://125.227.210.55:3031/VideoInput/play.ts
+
+代理VIP_5,#genre#
+松視1台,socks5://43.167.220.30:58921/http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松視1台,socks5://43.167.220.30:58921/http://128.14.206.166/pull-f5.flive.douyincdn.com/live/s1t.flv
+松視2台,socks5://43.167.220.30:58921/http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+松視3台,socks5://43.167.220.30:58921/http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+驚艷台,socks5://43.167.220.30:58921/http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+驚艷台,socks5://43.167.220.30:58921/http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+驚艷台,socks5://43.167.220.30:58921/http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
+驚艷台,socks5://43.167.220.30:58921/http://128.14.206.166/pull-f5.flive.douyincdn.com/live/jyt.flv
+潘朵拉完美,socks5://43.167.220.30:58921/http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+香蕉台,socks5://43.167.220.30:58921/http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
+香蕉台,socks5://43.167.220.30:58921/http://128.14.206.166/pull-f5.flive.douyincdn.com/live/xjt.flv
+麻豆传媒,socks5://43.167.220.30:58921/http://125.227.210.55:1009/VideoInput/play.ts
+奧視1,socks5://43.167.220.30:58921/http://125.227.210.55:1022/VideoInput/play.ts
+奧視2,socks5://43.167.220.30:58921/http://125.227.210.55:3031/VideoInput/play.ts
+
+松視1台,socks5://220.189.213.2:47001/http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松視1台,socks5://220.189.213.2:47001/http://128.14.206.166/pull-f5.flive.douyincdn.com/live/s1t.flv
+松視2台,socks5://220.189.213.2:47001/http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+松視3台,socks5://220.189.213.2:47001/http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+驚艷台,socks5://220.189.213.2:47001/http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+驚艷台,socks5://220.189.213.2:47001/http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+驚艷台,socks5://220.189.213.2:47001/http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
+驚艷台,socks5://220.189.213.2:47001/http://128.14.206.166/pull-f5.flive.douyincdn.com/live/jyt.flv
+潘朵拉完美,socks5://220.189.213.2:47001/http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+香蕉台,socks5://220.189.213.2:47001/http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
+香蕉台,socks5://220.189.213.2:47001/http://128.14.206.166/pull-f5.flive.douyincdn.com/live/xjt.flv
+麻豆传媒,socks5://220.189.213.2:47001/http://125.227.210.55:1009/VideoInput/play.ts
+奧視1,socks5://220.189.213.2:47001/http://125.227.210.55:1022/VideoInput/play.ts
+奧視2,socks5://220.189.213.2:47001/http://125.227.210.55:3031/VideoInput/play.ts
 
 
 浙江直播,#genre#
