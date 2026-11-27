@@ -326,7 +326,8 @@ CGTN俄罗斯语,http://jjzxg.ddns.net:7210/rtp/233.50.201.39:5140
 无线新闻,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
 TVB无线新闻,http://cc.123.rr.kg/163189/wxxwt
 TVB无线新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
-测试,socks5://43.167.220.30:58921/http://211.72.174.95:8113/0.ts
+测试1,socks5://43.167.220.30:58921/http://211.72.174.95:8113/0.ts
+测试2,socks5://43.167.220.30:58921/http://211.72.174.95:8116/0.ts
 
 VIP_5,#genre#
 松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
